@@ -1,0 +1,17 @@
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\amalaver\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
